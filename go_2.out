@@ -1,0 +1,315 @@
+Initial position from /db/mpich/sn0318/simplescalar/benchmarks/spec95/Input/2stone9.in
+  1 B C3 
+  2 W pass
+  3 B G7 
+  4 W D7 
+  5 B G4 
+  6 W C5 
+  7 B B4 
+  8 W B5 
+  9 B E4 
+ 10 W F8 
+ 11 B G8 
+ 12 W F6 
+ 13 B G6 
+ 14 W F7 
+ 15 B F9 
+ 16 W E9 
+ 17 B G9 
+ 18 W E8 
+ 19 B A5 
+ 20 W A6 
+ 21 B A4 
+ 22 W C6 
+ 23 B F5 
+ 24 W G3 
+ 25 B E6 
+ 26 W C4 
+ 27 B D4 
+ 28 W H4 
+ 29 B F3 
+ 30 W B3 
+ 31 B C2 
+ 32 W H5 
+ 33 B G2 
+ 34 W H6 
+ 35 B H7 
+ 36 W D5 
+ 37 B H3 
+ 38 W B2 
+ 39 B E5 
+ 40 W C1 
+ 41 B D6 
+ 42 W C7 
+ 43 B B7 
+ 44 W E1 
+ 45 B B1 
+ 46 W D1 
+ 47 B A3 
+ 48 W C9 
+ 49 B A2 
+ 50 W B8 
+ 51 B E7 
+ 52 W A7 
+ 53 B F2 
+ 54 W pass
+ 55 B pass
+Game over
+Cache il1:
+Cache Set #0: misses - 224200, hits - 6303589
+Cache Set #1: misses - 353285, hits - 10383725
+Cache Set #2: misses - 362631, hits - 25330499
+Cache Set #3: misses - 330638, hits - 16246774
+Cache Set #4: misses - 279070, hits - 7225675
+Cache Set #5: misses - 366944, hits - 13345184
+Cache Set #6: misses - 343427, hits - 16170511
+Cache Set #7: misses - 352593, hits - 15372367
+Cache Set #8: misses - 348386, hits - 10835416
+Cache Set #9: misses - 199985, hits - 7980585
+Cache Set #10: misses - 163748, hits - 6885326
+Cache Set #11: misses - 192466, hits - 6590388
+Cache Set #12: misses - 203898, hits - 10138221
+Cache Set #13: misses - 216028, hits - 18290810
+Cache Set #14: misses - 250982, hits - 13043891
+Cache Set #15: misses - 280617, hits - 16543090
+Cache Set #16: misses - 219853, hits - 17658234
+Cache Set #17: misses - 312380, hits - 16554280
+Cache Set #18: misses - 282398, hits - 6350153
+Cache Set #19: misses - 155609, hits - 5056053
+Cache Set #20: misses - 129515, hits - 5241739
+Cache Set #21: misses - 156623, hits - 6169480
+Cache Set #22: misses - 153293, hits - 5781875
+Cache Set #23: misses - 150440, hits - 4901753
+Cache Set #24: misses - 111160, hits - 3622648
+Cache Set #25: misses - 154212, hits - 4538689
+Cache Set #26: misses - 163517, hits - 5622128
+Cache Set #27: misses - 140083, hits - 4661294
+Cache Set #28: misses - 110835, hits - 4402523
+Cache Set #29: misses - 120148, hits - 4392667
+Cache Set #30: misses - 152136, hits - 3816224
+Cache Set #31: misses - 115584, hits - 2645035
+Cache Set #32: misses - 128836, hits - 3450395
+Cache Set #33: misses - 135408, hits - 3722913
+Cache Set #34: misses - 139816, hits - 3791587
+Cache Set #35: misses - 137171, hits - 3049337
+Cache Set #36: misses - 137961, hits - 3062850
+Cache Set #37: misses - 138698, hits - 4342155
+Cache Set #38: misses - 131429, hits - 3410337
+Cache Set #39: misses - 118185, hits - 3207544
+Cache Set #40: misses - 91006, hits - 3540395
+Cache Set #41: misses - 93679, hits - 3554650
+Cache Set #42: misses - 93326, hits - 3631746
+Cache Set #43: misses - 124545, hits - 4062031
+Cache Set #44: misses - 126426, hits - 3728269
+Cache Set #45: misses - 135528, hits - 3963692
+Cache Set #46: misses - 165423, hits - 4521308
+Cache Set #47: misses - 174261, hits - 5263459
+Cache Set #48: misses - 160834, hits - 6584907
+Cache Set #49: misses - 137943, hits - 5541814
+Cache Set #50: misses - 128726, hits - 4254058
+Cache Set #51: misses - 116774, hits - 4658322
+Cache Set #52: misses - 177324, hits - 4639052
+Cache Set #53: misses - 188384, hits - 4037232
+Cache Set #54: misses - 188744, hits - 3835904
+Cache Set #55: misses - 135421, hits - 3340582
+Cache Set #56: misses - 105456, hits - 2209099
+Cache Set #57: misses - 119612, hits - 2200847
+Cache Set #58: misses - 154213, hits - 3137455
+Cache Set #59: misses - 154820, hits - 3183907
+Cache Set #60: misses - 150295, hits - 2538653
+Cache Set #61: misses - 181691, hits - 3085080
+Cache Set #62: misses - 158906, hits - 3033615
+Cache Set #63: misses - 159169, hits - 3193452
+Cache Set #64: misses - 159690, hits - 2969836
+Cache Set #65: misses - 150334, hits - 3936155
+Cache Set #66: misses - 178383, hits - 5187769
+Cache Set #67: misses - 178343, hits - 5467954
+Cache Set #68: misses - 176932, hits - 4504251
+Cache Set #69: misses - 130619, hits - 2953982
+Cache Set #70: misses - 90589, hits - 3147238
+Cache Set #71: misses - 76611, hits - 3926220
+Cache Set #72: misses - 72715, hits - 4197565
+Cache Set #73: misses - 61897, hits - 2858731
+Cache Set #74: misses - 54978, hits - 2298106
+Cache Set #75: misses - 30596, hits - 1995993
+Cache Set #76: misses - 31339, hits - 2200027
+Cache Set #77: misses - 23452, hits - 2939280
+Cache Set #78: misses - 40410, hits - 2686080
+Cache Set #79: misses - 43520, hits - 3155850
+Cache Set #80: misses - 47715, hits - 5082320
+Cache Set #81: misses - 45344, hits - 6527052
+Cache Set #82: misses - 136306, hits - 8612883
+Cache Set #83: misses - 146758, hits - 7714706
+Cache Set #84: misses - 151662, hits - 6625324
+Cache Set #85: misses - 133729, hits - 5535357
+Cache Set #86: misses - 120778, hits - 4586718
+Cache Set #87: misses - 185752, hits - 6495288
+Cache Set #88: misses - 319203, hits - 9899504
+Cache Set #89: misses - 298191, hits - 12848144
+Cache Set #90: misses - 331821, hits - 15259739
+Cache Set #91: misses - 428523, hits - 15614125
+Cache Set #92: misses - 385469, hits - 11613090
+Cache Set #93: misses - 339038, hits - 7419322
+Cache Set #94: misses - 357560, hits - 8411784
+Cache Set #95: misses - 302972, hits - 8022161
+Cache Set #96: misses - 348996, hits - 9264479
+Cache Set #97: misses - 291961, hits - 13219871
+Cache Set #98: misses - 290993, hits - 11844642
+Cache Set #99: misses - 286757, hits - 10340029
+Cache Set #100: misses - 289400, hits - 10035059
+Cache Set #101: misses - 278975, hits - 13285020
+Cache Set #102: misses - 287758, hits - 21570361
+Cache Set #103: misses - 290837, hits - 26812058
+Cache Set #104: misses - 414427, hits - 26742281
+Cache Set #105: misses - 400494, hits - 20350040
+Cache Set #106: misses - 311959, hits - 23872354
+Cache Set #107: misses - 308656, hits - 23115902
+Cache Set #108: misses - 294741, hits - 23297391
+Cache Set #109: misses - 346590, hits - 27986580
+Cache Set #110: misses - 379742, hits - 10613011
+Cache Set #111: misses - 239239, hits - 7049165
+Cache Set #112: misses - 173467, hits - 6529953
+Cache Set #113: misses - 207790, hits - 7708011
+Cache Set #114: misses - 172923, hits - 9179904
+Cache Set #115: misses - 155816, hits - 7928455
+Cache Set #116: misses - 419671, hits - 17955943
+Cache Set #117: misses - 415457, hits - 21253501
+Cache Set #118: misses - 310215, hits - 19150865
+Cache Set #119: misses - 305202, hits - 17421680
+Cache Set #120: misses - 269823, hits - 19479680
+Cache Set #121: misses - 254439, hits - 12796124
+Cache Set #122: misses - 280712, hits - 12828597
+Cache Set #123: misses - 277605, hits - 14579428
+Cache Set #124: misses - 297735, hits - 8868641
+Cache Set #125: misses - 281469, hits - 10060993
+Cache Set #126: misses - 193801, hits - 6620006
+Cache Set #127: misses - 200026, hits - 7414551
+Cache dl1:
+Cache Set #0: misses - 723, hits - 29868
+Cache Set #1: misses - 4014, hits - 348065
+Cache Set #2: misses - 3319, hits - 628351
+Cache Set #3: misses - 1129, hits - 112013
+Cache Set #4: misses - 1143, hits - 20630
+Cache Set #5: misses - 2661, hits - 59478
+Cache Set #6: misses - 1095, hits - 47991
+Cache Set #7: misses - 2660, hits - 71627
+Cache Set #8: misses - 4020, hits - 72203
+Cache Set #9: misses - 1522, hits - 37584
+Cache Set #10: misses - 789, hits - 82625
+Cache Set #11: misses - 10972, hits - 600935
+Cache Set #12: misses - 52699, hits - 882958
+Cache Set #13: misses - 81759, hits - 1030052
+Cache Set #14: misses - 205266, hits - 1255853
+Cache Set #15: misses - 167264, hits - 1092623
+Cache Set #16: misses - 145050, hits - 1179136
+Cache Set #17: misses - 362733, hits - 2489330
+Cache Set #18: misses - 447103, hits - 21609914
+Cache Set #19: misses - 243277, hits - 2534307
+Cache Set #20: misses - 97865, hits - 1045879
+Cache Set #21: misses - 81762, hits - 981127
+Cache Set #22: misses - 60789, hits - 875205
+Cache Set #23: misses - 82196, hits - 897017
+Cache Set #24: misses - 131167, hits - 986707
+Cache Set #25: misses - 55894, hits - 765685
+Cache Set #26: misses - 141102, hits - 901054
+Cache Set #27: misses - 244622, hits - 1636714
+Cache Set #28: misses - 384067, hits - 2370105
+Cache Set #29: misses - 253972, hits - 2872202
+Cache Set #30: misses - 345763, hits - 4269141
+Cache Set #31: misses - 134881, hits - 1303028
+Cache Set #32: misses - 175461, hits - 1595557
+Cache Set #33: misses - 166109, hits - 1690952
+Cache Set #34: misses - 79805, hits - 1213297
+Cache Set #35: misses - 4470, hits - 764171
+Cache Set #36: misses - 128450, hits - 1055566
+Cache Set #37: misses - 217462, hits - 2469444
+Cache Set #38: misses - 103024, hits - 1534783
+Cache Set #39: misses - 18111, hits - 775305
+Cache Set #40: misses - 22243, hits - 797451
+Cache Set #41: misses - 14803, hits - 787584
+Cache Set #42: misses - 6589, hits - 739966
+Cache Set #43: misses - 16383, hits - 734152
+Cache Set #44: misses - 42284, hits - 770233
+Cache Set #45: misses - 73670, hits - 912077
+Cache Set #46: misses - 30475, hits - 796481
+Cache Set #47: misses - 11379, hits - 671204
+Cache Set #48: misses - 188748, hits - 1690476
+Cache Set #49: misses - 244582, hits - 1920281
+Cache Set #50: misses - 254329, hits - 1874422
+Cache Set #51: misses - 317170, hits - 2276517
+Cache Set #52: misses - 227029, hits - 2017586
+Cache Set #53: misses - 59781, hits - 802410
+Cache Set #54: misses - 7003, hits - 640246
+Cache Set #55: misses - 14851, hits - 660354
+Cache Set #56: misses - 2791, hits - 666539
+Cache Set #57: misses - 86715, hits - 940950
+Cache Set #58: misses - 145284, hits - 2057010
+Cache Set #59: misses - 104811, hits - 1580703
+Cache Set #60: misses - 1089, hits - 639726
+Cache Set #61: misses - 682, hits - 600370
+Cache Set #62: misses - 655, hits - 595497
+Cache Set #63: misses - 648, hits - 584598
+Cache Set #64: misses - 55260, hits - 875164
+Cache Set #65: misses - 102248, hits - 1524323
+Cache Set #66: misses - 84272, hits - 1279463
+Cache Set #67: misses - 220955, hits - 1994040
+Cache Set #68: misses - 53893, hits - 845151
+Cache Set #69: misses - 6608, hits - 499588
+Cache Set #70: misses - 26126, hits - 612571
+Cache Set #71: misses - 98368, hits - 829764
+Cache Set #72: misses - 46562, hits - 543933
+Cache Set #73: misses - 89883, hits - 650038
+Cache Set #74: misses - 3647, hits - 445523
+Cache Set #75: misses - 51889, hits - 593339
+Cache Set #76: misses - 41599, hits - 558934
+Cache Set #77: misses - 58231, hits - 645307
+Cache Set #78: misses - 48273, hits - 512072
+Cache Set #79: misses - 69467, hits - 548019
+Cache Set #80: misses - 90013, hits - 911849
+Cache Set #81: misses - 49817, hits - 543000
+Cache Set #82: misses - 39658, hits - 406887
+Cache Set #83: misses - 54904, hits - 586152
+Cache Set #84: misses - 21202, hits - 461017
+Cache Set #85: misses - 12400, hits - 318685
+Cache Set #86: misses - 2796, hits - 96933
+Cache Set #87: misses - 3125, hits - 75680
+Cache Set #88: misses - 3230, hits - 2472893
+Cache Set #89: misses - 2035, hits - 148091
+Cache Set #90: misses - 2333, hits - 233461
+Cache Set #91: misses - 3471, hits - 259138
+Cache Set #92: misses - 12172, hits - 316613
+Cache Set #93: misses - 35095, hits - 1462399
+Cache Set #94: misses - 5661, hits - 374746
+Cache Set #95: misses - 3224, hits - 418199
+Cache Set #96: misses - 3325, hits - 272614
+Cache Set #97: misses - 2115, hits - 67600
+Cache Set #98: misses - 3629, hits - 631074
+Cache Set #99: misses - 1975, hits - 52222
+Cache Set #100: misses - 5577, hits - 153539
+Cache Set #101: misses - 12573, hits - 249148
+Cache Set #102: misses - 7736, hits - 259723
+Cache Set #103: misses - 1696, hits - 246842
+Cache Set #104: misses - 8583, hits - 770969
+Cache Set #105: misses - 5111, hits - 293274
+Cache Set #106: misses - 3533, hits - 267123
+Cache Set #107: misses - 1453, hits - 45082
+Cache Set #108: misses - 762, hits - 44579
+Cache Set #109: misses - 1398, hits - 129991
+Cache Set #110: misses - 12070, hits - 705049
+Cache Set #111: misses - 11946, hits - 722117
+Cache Set #112: misses - 4922, hits - 908699
+Cache Set #113: misses - 2292, hits - 2486697
+Cache Set #114: misses - 5878, hits - 5655360
+Cache Set #115: misses - 1809, hits - 8942534
+Cache Set #116: misses - 978, hits - 7879323
+Cache Set #117: misses - 1873, hits - 7854484
+Cache Set #118: misses - 2280, hits - 7593143
+Cache Set #119: misses - 5810, hits - 7616570
+Cache Set #120: misses - 3548, hits - 3686913
+Cache Set #121: misses - 1732, hits - 3434286
+Cache Set #122: misses - 2679, hits - 3882297
+Cache Set #123: misses - 1789, hits - 1163039
+Cache Set #124: misses - 811, hits - 764626
+Cache Set #125: misses - 3051, hits - 179008
+Cache Set #126: misses - 896, hits - 35481
+Cache Set #127: misses - 935, hits - 20442

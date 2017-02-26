@@ -1,0 +1,358 @@
+Shortest path is 2 in cost. Path is:  0 50
+Shortest path is 2 in cost. Path is:  1 51
+Shortest path is 2 in cost. Path is:  2 52
+Shortest path is 2 in cost. Path is:  3 53
+Shortest path is 2 in cost. Path is:  4 54
+Shortest path is 2 in cost. Path is:  5 55
+Shortest path is 2 in cost. Path is:  6 56
+Shortest path is 2 in cost. Path is:  7 57
+Shortest path is 2 in cost. Path is:  8 58
+Shortest path is 2 in cost. Path is:  9 59
+Shortest path is 2 in cost. Path is:  10 60
+Shortest path is 2 in cost. Path is:  11 61
+Shortest path is 2 in cost. Path is:  12 62
+Shortest path is 2 in cost. Path is:  13 63
+Shortest path is 2 in cost. Path is:  14 64
+Shortest path is 2 in cost. Path is:  15 65
+Shortest path is 2 in cost. Path is:  16 66
+Shortest path is 2 in cost. Path is:  17 67
+Shortest path is 2 in cost. Path is:  18 68
+Shortest path is 2 in cost. Path is:  19 69
+Shortest path is 2 in cost. Path is:  20 70
+Shortest path is 2 in cost. Path is:  21 71
+Shortest path is 2 in cost. Path is:  22 72
+Shortest path is 2 in cost. Path is:  23 73
+Shortest path is 2 in cost. Path is:  24 74
+Shortest path is 2 in cost. Path is:  25 75
+Shortest path is 2 in cost. Path is:  26 76
+Shortest path is 2 in cost. Path is:  27 77
+Shortest path is 2 in cost. Path is:  28 78
+Shortest path is 2 in cost. Path is:  29 79
+Shortest path is 2 in cost. Path is:  30 80
+Shortest path is 2 in cost. Path is:  31 81
+Shortest path is 2 in cost. Path is:  32 82
+Shortest path is 2 in cost. Path is:  33 83
+Shortest path is 2 in cost. Path is:  34 84
+Shortest path is 2 in cost. Path is:  35 85
+Shortest path is 2 in cost. Path is:  36 86
+Shortest path is 2 in cost. Path is:  37 87
+Shortest path is 2 in cost. Path is:  38 88
+Shortest path is 2 in cost. Path is:  39 89
+Shortest path is 2 in cost. Path is:  40 90
+Shortest path is 2 in cost. Path is:  41 91
+Shortest path is 2 in cost. Path is:  42 92
+Shortest path is 2 in cost. Path is:  43 93
+Shortest path is 2 in cost. Path is:  44 94
+Shortest path is 2 in cost. Path is:  45 95
+Shortest path is 2 in cost. Path is:  46 96
+Shortest path is 2 in cost. Path is:  47 97
+Shortest path is 2 in cost. Path is:  48 98
+Shortest path is 2 in cost. Path is:  49 99
+Shortest path is 2 in cost. Path is:  50 0
+Shortest path is 2 in cost. Path is:  51 1
+Shortest path is 2 in cost. Path is:  52 2
+Shortest path is 2 in cost. Path is:  53 3
+Shortest path is 2 in cost. Path is:  54 4
+Shortest path is 2 in cost. Path is:  55 5
+Shortest path is 2 in cost. Path is:  56 6
+Shortest path is 2 in cost. Path is:  57 7
+Shortest path is 2 in cost. Path is:  58 8
+Shortest path is 2 in cost. Path is:  59 9
+Shortest path is 2 in cost. Path is:  60 10
+Shortest path is 2 in cost. Path is:  61 11
+Shortest path is 2 in cost. Path is:  62 12
+Shortest path is 2 in cost. Path is:  63 13
+Shortest path is 2 in cost. Path is:  64 14
+Shortest path is 2 in cost. Path is:  65 15
+Shortest path is 2 in cost. Path is:  66 16
+Shortest path is 2 in cost. Path is:  67 17
+Shortest path is 2 in cost. Path is:  68 18
+Shortest path is 2 in cost. Path is:  69 19
+Shortest path is 2 in cost. Path is:  70 20
+Shortest path is 2 in cost. Path is:  71 21
+Shortest path is 2 in cost. Path is:  72 22
+Shortest path is 2 in cost. Path is:  73 23
+Shortest path is 2 in cost. Path is:  74 24
+Shortest path is 2 in cost. Path is:  75 25
+Shortest path is 2 in cost. Path is:  76 26
+Shortest path is 2 in cost. Path is:  77 27
+Shortest path is 2 in cost. Path is:  78 28
+Shortest path is 2 in cost. Path is:  79 29
+Shortest path is 2 in cost. Path is:  80 30
+Shortest path is 2 in cost. Path is:  81 31
+Shortest path is 2 in cost. Path is:  82 32
+Shortest path is 2 in cost. Path is:  83 33
+Shortest path is 2 in cost. Path is:  84 34
+Shortest path is 2 in cost. Path is:  85 35
+Shortest path is 2 in cost. Path is:  86 36
+Shortest path is 2 in cost. Path is:  87 37
+Shortest path is 2 in cost. Path is:  88 38
+Shortest path is 2 in cost. Path is:  89 39
+Shortest path is 2 in cost. Path is:  90 40
+Shortest path is 2 in cost. Path is:  91 41
+Shortest path is 2 in cost. Path is:  92 42
+Shortest path is 2 in cost. Path is:  93 43
+Shortest path is 2 in cost. Path is:  94 44
+Shortest path is 2 in cost. Path is:  95 45
+Shortest path is 2 in cost. Path is:  96 46
+Shortest path is 2 in cost. Path is:  97 47
+Shortest path is 2 in cost. Path is:  98 48
+Shortest path is 2 in cost. Path is:  99 49
+Cache il1:
+Cache Set #0: misses - 2, hits - 6377
+Cache Set #1: misses - 2, hits - 3976
+Cache Set #2: misses - 2, hits - 2291
+Cache Set #3: misses - 2, hits - 3793
+Cache Set #4: misses - 2, hits - 5588
+Cache Set #5: misses - 4, hits - 4008
+Cache Set #6: misses - 4, hits - 4629
+Cache Set #7: misses - 203, hits - 44265
+Cache Set #8: misses - 203, hits - 84567
+Cache Set #9: misses - 3, hits - 43716
+Cache Set #10: misses - 302, hits - 83906
+Cache Set #11: misses - 202, hits - 134221
+Cache Set #12: misses - 2, hits - 165420
+Cache Set #13: misses - 701, hits - 107728
+Cache Set #14: misses - 701, hits - 7229
+Cache Set #15: misses - 703, hits - 4346
+Cache Set #16: misses - 307, hits - 9574
+Cache Set #17: misses - 308, hits - 11570
+Cache Set #18: misses - 405, hits - 10889
+Cache Set #19: misses - 403, hits - 38606
+Cache Set #20: misses - 406, hits - 86249
+Cache Set #21: misses - 406, hits - 86608
+Cache Set #22: misses - 405, hits - 55895
+Cache Set #23: misses - 405, hits - 5444
+Cache Set #24: misses - 402, hits - 7227
+Cache Set #25: misses - 401, hits - 9527
+Cache Set #26: misses - 401, hits - 78240
+Cache Set #27: misses - 202, hits - 103727
+Cache Set #28: misses - 400, hits - 6101832
+Cache Set #29: misses - 300, hits - 8011540
+Cache Set #30: misses - 5, hits - 8002800
+Cache Set #31: misses - 301, hits - 8062132
+Cache Set #32: misses - 301, hits - 6161948
+Cache Set #33: misses - 201, hits - 249378
+Cache Set #34: misses - 201, hits - 3081201
+Cache Set #35: misses - 303, hits - 11328006
+Cache Set #36: misses - 305, hits - 11895404
+Cache Set #37: misses - 305, hits - 8138872
+Cache Set #38: misses - 205, hits - 54725
+Cache Set #39: misses - 207, hits - 156671
+Cache Set #40: misses - 307, hits - 193970
+Cache Set #41: misses - 304, hits - 143454
+Cache Set #42: misses - 302, hits - 62782
+Cache Set #43: misses - 303, hits - 33442
+Cache Set #44: misses - 303, hits - 243426
+Cache Set #45: misses - 302, hits - 277696
+Cache Set #46: misses - 901, hits - 263049
+Cache Set #47: misses - 901, hits - 304942
+Cache Set #48: misses - 903, hits - 144141
+Cache Set #49: misses - 903, hits - 35153
+Cache Set #50: misses - 4, hits - 1794
+Cache Set #51: misses - 2, hits - 13
+Cache Set #52: misses - 2, hits - 16
+Cache Set #53: misses - 6, hits - 2636
+Cache Set #54: misses - 4, hits - 6654
+Cache Set #55: misses - 4, hits - 6643
+Cache Set #56: misses - 4, hits - 1950
+Cache Set #57: misses - 3, hits - 840
+Cache Set #58: misses - 4, hits - 1662
+Cache Set #59: misses - 4, hits - 264
+Cache Set #60: misses - 8, hits - 26723
+Cache Set #61: misses - 6, hits - 122956
+Cache Set #62: misses - 3, hits - 178024
+Cache Set #63: misses - 3, hits - 113402
+Cache Set #64: misses - 3, hits - 24604
+Cache Set #65: misses - 3, hits - 11770
+Cache Set #66: misses - 4, hits - 12826
+Cache Set #67: misses - 798, hits - 18581
+Cache Set #68: misses - 3, hits - 20061
+Cache Set #69: misses - 3, hits - 20855
+Cache Set #70: misses - 3, hits - 13564
+Cache Set #71: misses - 2, hits - 8627
+Cache Set #72: misses - 4, hits - 11534
+Cache Set #73: misses - 4, hits - 10674
+Cache Set #74: misses - 403, hits - 16169
+Cache Set #75: misses - 403, hits - 14136
+Cache Set #76: misses - 403, hits - 13108
+Cache Set #77: misses - 598, hits - 15271
+Cache Set #78: misses - 5, hits - 9602
+Cache Set #79: misses - 5, hits - 15754
+Cache Set #80: misses - 5, hits - 14332
+Cache Set #81: misses - 3, hits - 310
+Cache Set #82: misses - 4, hits - 1741
+Cache Set #83: misses - 5, hits - 4711
+Cache Set #84: misses - 5, hits - 4887
+Cache Set #85: misses - 5, hits - 4681
+Cache Set #86: misses - 5, hits - 10474
+Cache Set #87: misses - 5, hits - 12235
+Cache Set #88: misses - 5, hits - 9011
+Cache Set #89: misses - 1, hits - 7992
+Cache Set #90: misses - 2, hits - 8306
+Cache Set #91: misses - 2, hits - 17232
+Cache Set #92: misses - 2, hits - 14274
+Cache Set #93: misses - 1, hits - 5066
+Cache Set #94: misses - 1, hits - 4252
+Cache Set #95: misses - 1, hits - 1616
+Cache Set #96: misses - 5, hits - 12948
+Cache Set #97: misses - 5, hits - 18046
+Cache Set #98: misses - 2, hits - 41134
+Cache Set #99: misses - 2, hits - 87025
+Cache Set #100: misses - 2, hits - 194439
+Cache Set #101: misses - 201, hits - 319482
+Cache Set #102: misses - 201, hits - 381696
+Cache Set #103: misses - 201, hits - 265412
+Cache Set #104: misses - 300, hits - 164301
+Cache Set #105: misses - 300, hits - 161797
+Cache Set #106: misses - 300, hits - 110000
+Cache Set #107: misses - 2, hits - 80800
+Cache Set #108: misses - 2, hits - 83606
+Cache Set #109: misses - 2, hits - 114165
+Cache Set #110: misses - 1, hits - 408248
+Cache Set #111: misses - 2, hits - 412055
+Cache Set #112: misses - 299, hits - 416449
+Cache Set #113: misses - 299, hits - 14587
+Cache Set #114: misses - 299, hits - 10709
+Cache Set #115: misses - 299, hits - 5094
+Cache Set #116: misses - 2, hits - 5413
+Cache Set #117: misses - 4, hits - 4948
+Cache Set #118: misses - 4, hits - 4078
+Cache Set #119: misses - 6, hits - 1135
+Cache Set #120: misses - 2, hits - 145
+Cache Set #121: misses - 2, hits - 88
+Cache Set #122: misses - 6, hits - 4067
+Cache Set #123: misses - 4, hits - 5607
+Cache Set #124: misses - 2, hits - 3247
+Cache Set #125: misses - 4, hits - 4525
+Cache Set #126: misses - 4, hits - 3555
+Cache Set #127: misses - 4, hits - 4596
+Cache dl1:
+Cache Set #0: misses - 608, hits - 31296
+Cache Set #1: misses - 808, hits - 582005
+Cache Set #2: misses - 721, hits - 21408
+Cache Set #3: misses - 613, hits - 21266
+Cache Set #4: misses - 707, hits - 10967
+Cache Set #5: misses - 708, hits - 11356
+Cache Set #6: misses - 606, hits - 10661
+Cache Set #7: misses - 608, hits - 10671
+Cache Set #8: misses - 711, hits - 10856
+Cache Set #9: misses - 605, hits - 10659
+Cache Set #10: misses - 608, hits - 10669
+Cache Set #11: misses - 607, hits - 10657
+Cache Set #12: misses - 606, hits - 10661
+Cache Set #13: misses - 605, hits - 10659
+Cache Set #14: misses - 608, hits - 10659
+Cache Set #15: misses - 605, hits - 10659
+Cache Set #16: misses - 606, hits - 10661
+Cache Set #17: misses - 707, hits - 20976
+Cache Set #18: misses - 611, hits - 7639911
+Cache Set #19: misses - 608, hits - 216509
+Cache Set #20: misses - 606, hits - 10661
+Cache Set #21: misses - 606, hits - 10658
+Cache Set #22: misses - 606, hits - 10661
+Cache Set #23: misses - 605, hits - 10659
+Cache Set #24: misses - 608, hits - 10659
+Cache Set #25: misses - 605, hits - 10659
+Cache Set #26: misses - 606, hits - 10661
+Cache Set #27: misses - 608, hits - 10656
+Cache Set #28: misses - 606, hits - 10661
+Cache Set #29: misses - 605, hits - 10659
+Cache Set #30: misses - 608, hits - 10659
+Cache Set #31: misses - 605, hits - 10659
+Cache Set #32: misses - 606, hits - 10661
+Cache Set #33: misses - 607, hits - 10253
+Cache Set #34: misses - 608, hits - 131106
+Cache Set #35: misses - 504, hits - 9144
+Cache Set #36: misses - 517, hits - 130364
+Cache Set #37: misses - 507, hits - 170781
+Cache Set #38: misses - 507, hits - 170784
+Cache Set #39: misses - 1389, hits - 227418
+Cache Set #40: misses - 514, hits - 180283
+Cache Set #41: misses - 514, hits - 183446
+Cache Set #42: misses - 519, hits - 186610
+Cache Set #43: misses - 551, hits - 189745
+Cache Set #44: misses - 703, hits - 192764
+Cache Set #45: misses - 614, hits - 196018
+Cache Set #46: misses - 609, hits - 199194
+Cache Set #47: misses - 608, hits - 202366
+Cache Set #48: misses - 702, hits - 165431
+Cache Set #49: misses - 644, hits - 48636
+Cache Set #50: misses - 804, hits - 52125
+Cache Set #51: misses - 702, hits - 54914
+Cache Set #52: misses - 706, hits - 58081
+Cache Set #53: misses - 702, hits - 61250
+Cache Set #54: misses - 705, hits - 64419
+Cache Set #55: misses - 705, hits - 67583
+Cache Set #56: misses - 804, hits - 70955
+Cache Set #57: misses - 702, hits - 73922
+Cache Set #58: misses - 629, hits - 77166
+Cache Set #59: misses - 605, hits - 80355
+Cache Set #60: misses - 606, hits - 83525
+Cache Set #61: misses - 608, hits - 86688
+Cache Set #62: misses - 606, hits - 89860
+Cache Set #63: misses - 605, hits - 117975
+Cache Set #64: misses - 711, hits - 13966
+Cache Set #65: misses - 509, hits - 111623
+Cache Set #66: misses - 507, hits - 7637
+Cache Set #67: misses - 509, hits - 7635
+Cache Set #68: misses - 507, hits - 7637
+Cache Set #69: misses - 507, hits - 7637
+Cache Set #70: misses - 507, hits - 7637
+Cache Set #71: misses - 507, hits - 7637
+Cache Set #72: misses - 507, hits - 7637
+Cache Set #73: misses - 507, hits - 7637
+Cache Set #74: misses - 508, hits - 7636
+Cache Set #75: misses - 507, hits - 7637
+Cache Set #76: misses - 507, hits - 7637
+Cache Set #77: misses - 610, hits - 8490
+Cache Set #78: misses - 507, hits - 7637
+Cache Set #79: misses - 507, hits - 7637
+Cache Set #80: misses - 510, hits - 7634
+Cache Set #81: misses - 509, hits - 7648
+Cache Set #82: misses - 509, hits - 7666
+Cache Set #83: misses - 611, hits - 36181
+Cache Set #84: misses - 609, hits - 12248
+Cache Set #85: misses - 610, hits - 9529
+Cache Set #86: misses - 611, hits - 21242
+Cache Set #87: misses - 507, hits - 7637
+Cache Set #88: misses - 507, hits - 7637
+Cache Set #89: misses - 508, hits - 7636
+Cache Set #90: misses - 507, hits - 7637
+Cache Set #91: misses - 507, hits - 7637
+Cache Set #92: misses - 509, hits - 7635
+Cache Set #93: misses - 507, hits - 7637
+Cache Set #94: misses - 507, hits - 7637
+Cache Set #95: misses - 507, hits - 7637
+Cache Set #96: misses - 507, hits - 7637
+Cache Set #97: misses - 507, hits - 7637
+Cache Set #98: misses - 507, hits - 7637
+Cache Set #99: misses - 508, hits - 7636
+Cache Set #100: misses - 507, hits - 7637
+Cache Set #101: misses - 507, hits - 7637
+Cache Set #102: misses - 508, hits - 7636
+Cache Set #103: misses - 506, hits - 8219
+Cache Set #104: misses - 507, hits - 7733
+Cache Set #105: misses - 510, hits - 7762
+Cache Set #106: misses - 507, hits - 7797
+Cache Set #107: misses - 507, hits - 7829
+Cache Set #108: misses - 508, hits - 7860
+Cache Set #109: misses - 507, hits - 7893
+Cache Set #110: misses - 507, hits - 7925
+Cache Set #111: misses - 511, hits - 7953
+Cache Set #112: misses - 508, hits - 7988
+Cache Set #113: misses - 508, hits - 8020
+Cache Set #114: misses - 509, hits - 8051
+Cache Set #115: misses - 508, hits - 8084
+Cache Set #116: misses - 508, hits - 8116
+Cache Set #117: misses - 510, hits - 8146
+Cache Set #118: misses - 508, hits - 8180
+Cache Set #119: misses - 508, hits - 8212
+Cache Set #120: misses - 507, hits - 8245
+Cache Set #121: misses - 507, hits - 8277
+Cache Set #122: misses - 608, hits - 9992
+Cache Set #123: misses - 609, hits - 29750
+Cache Set #124: misses - 612, hits - 24113
+Cache Set #125: misses - 512, hits - 306872
+Cache Set #126: misses - 610, hits - 201598
+Cache Set #127: misses - 510, hits - 38730
